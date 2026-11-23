@@ -26,14 +26,3 @@ python3 scripts/contentany_client.py detect --text "把一段待检测的文章�
 python3 scripts/contentany_client.py detect --file article.txt
 ```
 
-## 发布
-
-技能目录就是发布单元，根目录包含 `SKILL.md`。
-
-SkillHub 预检：
-
-```bash
-skillhub publish . --dry-run
-```
-
-WorkBuddy 上传时，把本目录打成 zip，保留 `SKILL.md`、`manifest.yaml`、`LICENSE`、`scripts/`、`references/` 和 `assets/icon-512.png`。不要把本机的 `~/.contentany/ai-detect-session.json` 打进去。
