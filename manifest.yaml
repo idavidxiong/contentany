@@ -1,0 +1,8 @@
+name: contentany-ai-detect
+version: 1.0.0
+display_name: ContentAny AI检测
+description: "调用 ContentAny 完成文章 AI 指数检测、分段 AIGC 判断和内容质量报告。低创作等其他能力引导用户到官网申请自己的 token。"
+author: ContentAny
+license: MIT
+homepage: https://www.contentany.cn
+icon: assets/icon-512.png
