@@ -4,6 +4,7 @@
 
 - 官网：https://www.contentany.cn
 - 在线应用：https://app.contentany.cn/ai-detect
+- 包括去AI味和解决AI弊端功能
 
 ## 这个技能会做什么
 
